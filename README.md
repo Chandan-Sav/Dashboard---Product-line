@@ -1,14 +1,13 @@
-
 # Product Line Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/VecWz3FKtJ?ctid=3f66430c-920e-49dc-9dd6-8223afea3b81&pbi_source=linkShare&bookmarkGuid=de627bc8-6425-48b6-969b-6136983eab0b
+### [1] Dashboard Link : https://app.powerbi.com/links/VecWz3FKtJ?ctid=3f66430c-920e-49dc-9dd6-8223afea3b81&pbi_source=linkShare&bookmarkGuid=de627bc8-6425-48b6-969b-6136983eab0b
 
-## Problem Statement
+### [2] Problem Statement
 
 Here, a product problem statement may be pivotal in streamlining the process and guiding your team in the right direction from start to finish. The product problem statement aims to identify and clarify issues affecting your customers in simple terms. By the time you complete the statement, you should have a tight grasp on the customer experience you plan to deliver, whatever that may be.
 So, here we have created a dashboard on a purpose so we can get a idea of each sector total gross & quantity in each sector.
 
-## Chart used 
+### [3] Chart used 
 (a) Card :
           It was used to display values like sum of 'Gross of Income','Quantity','Total'. 
 
@@ -33,7 +32,7 @@ So, here we have created a dashboard on a purpose so we can get a idea of each s
   (h) Stacked Bar Chart :
         This visual was used to show 'Unit Price' by each product line.
 
-### Steps followed 
+### [4] Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
@@ -54,7 +53,7 @@ So, here we have created a dashboard on a purpose so we can get a idea of each s
 
 ![Snap_1](https://github.com/Chandan-Sav/Dashboard---Product-line/assets/121309914/1eb0b26a-e102-4ba5-9370-35ecd4d582a4)
 
- - Step 14 : The report was then published to Power BI Service.
+ - Step 11 : The report was then published to Power BI Service.
  
  
 ![Publish_Message](https://github.com/Chandan-Sav/Dashboard---Product-line/assets/121309914/7974c9b9-5a10-46bd-97c2-b6486cca4e5d)
@@ -69,15 +68,15 @@ So, here we have created a dashboard on a purpose so we can get a idea of each s
  
 ![Dashboard_upload](https://github.com/Chandan-Sav/Dashboard---Product-line/assets/121309914/dfc9a278-e72a-42d0-b8f5-3dd456796264)
 
-# Insights
+### [5] Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
 
- ### [4] Some other insights
+ ### [6] Some other insights
  
- ### Unit Price
+ #### Unit Price
  
  1.1) 431 Unit by Health & beauty.
  
@@ -90,9 +89,9 @@ Following inferences can be drawn from the dashboard;
  1.5) 98 Unit by Food & Beverages.
 
  1.6) 88 Unit by Fashion Accessories. 
-         thus, maximum unit price by Product Line is from Health & beauty.
+         Thus, maximum unit price by Product Line is from Health & beauty.
  
- ### Gross Income
+ #### Gross Income
  
  2.1)  37.26% Sales belong to 'Health & Beauty'  group.
  
@@ -105,9 +104,9 @@ Following inferences can be drawn from the dashboard;
  2.5)  22.55% employees belong to 'Sports & Travel' group.
 
  
-         thus, maximum Sales belong to 'Healthy & beauty' age group.
+         Thus, maximum Sales belong to 'Healthy & beauty' age group.
          
-### [Tax 5%]
+#### [Tax 5%]
 
  3.1) 196 Unit by Health & beauty.
  
@@ -121,6 +120,6 @@ Following inferences can be drawn from the dashboard;
 
  3.6) 37 Unit by Fashion Accessories. 
  
-         thus, maximum Tax of Product line belong to 'Sports & Travel' group.
+         Thus, maximum Tax of Product line belong to 'Sports & Travel' group.
          
 
